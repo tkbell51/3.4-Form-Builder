@@ -1,0 +1,12 @@
+body{
+  box-sizing: border-box;
+}
+#signup input{
+width: 50%;
+height: 40px;
+display: flex;
+align-items: center;
+justify-content: center ;
+flex-direction: column ;
+
+}
